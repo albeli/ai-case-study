@@ -25,7 +25,19 @@ Based on the information provided in the "Knowledge.txt" file, here's a filled-i
 - **What field is the company in?** Conversational AI in the customer service sector.
 - **What have been the major trends and innovations of this field over the last 5–10 years?** The shift towards AI-powered solutions for customer service, emphasizing natural language processing and understanding.
 - **What are the other major companies in this field?** [Competitor Information not provided]
-Based on the case study and testimonial of Landry’s using PolyAI's call center voice AI, here are key details to include in your research:
+
+On the podcast, Nikola Mrkšić, CEO of PolyAI, discussed their unique approach to voice technology. Here are the key details from that part of the conversation:
+
+- **Crafting Unique Voices for Each Client:** Mrkšić emphasized PolyAI’s distinctive strategy in creating a new voice for every client. This approach is not about using generic or standard voices but crafting unique ones that reflect each client's specific needs and brand identity.
+
+- **Diversity in Voice AI:** He mentioned the extreme diversity of their client base and how PolyAI caters to a wide range of requirements with very different voice characteristics. This diversity extends to different tones, emotions, sentiments, speech styles, and even slang, tailoring the voice AI to suit each client’s unique profile.
+
+- **Importance of User Experience in Voice Technology:** Mrkšić stressed the importance of the user experience when interacting with voice assistants. He suggested that the current voice AI offerings in the market only scratch the surface of potential user experiences. PolyAI aims to delve deeper, creating voices that resonate more authentically with users.
+
+- **Customization and Emotional Connection:** The focus on customization in voice AI underscores the importance of emotional connection and relatability in automated interactions. PolyAI’s approach indicates a shift from generic voice solutions to more personalized, engaging experiences that better serve the client's and their customers' needs.
+
+These insights demonstrate PolyAI's commitment to advancing voice AI technology by focusing on customization, diversity, and a deeper understanding of user experience. This approach sets them apart in the field of conversational AI, aiming to provide more natural and engaging voice interactions.
+
 ## Client Testimonial and Use Case
 
 - **Landry's:** Brian Jeppesen's experience at Landry’s demonstrates practical applications and benefits of PolyAI's technology. This real-world example provides insight into how businesses can leverage AI for customer service.
