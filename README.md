@@ -25,7 +25,24 @@ Based on the information provided in the "Knowledge.txt" file, here's a filled-i
 - **What field is the company in?** Conversational AI in the customer service sector.
 - **What have been the major trends and innovations of this field over the last 5–10 years?** The shift towards AI-powered solutions for customer service, emphasizing natural language processing and understanding.
 - **What are the other major companies in this field?** [Competitor Information not provided]
+Based on the case study and testimonial of Landry’s using PolyAI's call center voice AI, here are key details to include in your research:
+## Client Testimonial and Use Case
 
+- **Landry's:** Brian Jeppesen's experience at Landry’s demonstrates practical applications and benefits of PolyAI's technology. This real-world example provides insight into how businesses can leverage AI for customer service.
+
+- **Impact on Customer Service Efficiency:** Highlighting Landry's challenges during COVID-19, such as difficulties in hiring and high abandon rates, and how PolyAI's solution effectively addressed these issues.
+
+- **Human-like Interaction Quality:** Emphasizing the quality of PolyAI’s voice AI, which was designed to sound like Landry’s best agents, thus avoiding the typical robotic interactions of automated systems.
+
+- **Call Containment Success:** Including the impressive statistic of over 80% call containment rate achieved from day one, significantly higher than the anticipated 40-50%.
+
+- **Volume Handling and Performance Metrics:** Mentioning the specific volume of calls handled by the voice assistant, such as 40,000 more calls for one property and handling 3,000 reservations in a month at a hotel.
+
+- **Operational Benefits:** The testimonial touches on the operational efficiency and reliability of the voice assistant, which can work continuously without the challenges faced by human agents.
+
+- **Advice for AI Implementation:** Brian’s advice for businesses considering call center voice AI, such as starting with basic tasks and FAQs and focusing on low-hanging fruits, is valuable for understanding the strategic deployment of this technology.
+
+Incorporating these elements into your case study will provide a detailed and practical perspective on how PolyAI's solutions are being utilized effectively in real-world scenarios, adding depth and relevance to your research.
 ## Results
 
 - **What has been the business impact of this company so far?** PolyAI has achieved a 50% call handling rate, 85% CSAT score in hotel guest interactions, and $7.2M revenue from hotel reservations.
